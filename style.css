@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    background-color: coral;
+    margin-bottom: 15px;
+}
+div h1{
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
